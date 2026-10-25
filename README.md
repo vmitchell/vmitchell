@@ -7,4 +7,4 @@
   </picture>
 </a>
 
-Updated daily by [**model-pulse**](https://github.com/vmitchell/model-pulse), my tracker that puts frontier AI models side by side across LMArena, Epoch AI and OpenRouter.
+<sub><i>Updated daily by <a href="https://github.com/vmitchell/model-pulse"><b>my tracker</b></a>, that puts frontier AI models side by side</i></sub>
